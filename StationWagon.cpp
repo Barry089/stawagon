@@ -20,7 +20,7 @@ class StationWagon : public Car, public Wagon {
 int main(int argc, char * argv[])
 {
     StationWagon sw(105, 3, 8);
-    sw.show();
+    sw.ShowSW();
 
     return 0;
 }
