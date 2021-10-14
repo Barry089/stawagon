@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 class Wagon {
-    private:
+    protected:
         int power;
         int load;
     public:

@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 class Car {
-    private:
+    protected:
         int power;
         int seat;
     public:
